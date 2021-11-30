@@ -1,0 +1,31 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-size: 36px;
+	font-family: "Montserrat", sans-serif;
+	color: #fff;
+	background-color: #333;
+}
+
+p {
+	padding: 20px;
+}
+
+.box {
+	width: 600px;
+	height: 600px;
+	background-color: lime;
+}
+
+.inside {
+	width: 300px;
+	height: 300px;
+	background-color: royalblue;
+}
+/*  px nie jest responsywny */
+/* % odnosza sie do rodzica, jest responsywny jak sa % i rodzicem jest body */
+/* vh, vw (viewportheight,viewportwidth) viewport chodzi o to co widzimy na przegladarce do paska url czyli cala strona, jak odpalimy devtools to viewport oczywiscie sie zmienia, jest responsywny */

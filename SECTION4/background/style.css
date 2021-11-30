@@ -1,0 +1,29 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	height: 100vh;
+	font-family: "Montserrat", sans-serif;
+	background-color: #333;
+	color: #fff;
+
+	/* background-image: linear-gradient(326deg, #bd4f6c 0%, #d7816a 74%); */
+	/* background-image: url('./img/image.png'); */
+	/* background-repeat: no-repeat; */
+	/* background-position: 50% 100px; center,left,right*/
+	/* background-size: contain; 100% szerokości strony*/
+	/* background-size: cover; */
+	/* background-attachment: fixed; super efekt parallaxy */
+}
+
+/* background:
+    background-color:;
+    background-image:;
+    background-repeat:;
+    background-position:;
+    background-size:;
+    background-attachment:;
+*/

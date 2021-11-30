@@ -1,0 +1,18 @@
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+div {
+	width: 500px;
+	height: 500px;
+	background-color: rgba(0, 0, 0, 0.5);
+}
+
+/* nazwy kolorów */
+
+/* RGB (0-255)  RGBA/HSLA - posiada kanał alpha czyli przezroczystosc*/
+
+/* HSL (hue,saturation, lightness) */
+
+/* HEX (#RGB) */

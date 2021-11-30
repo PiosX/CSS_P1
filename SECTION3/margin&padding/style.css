@@ -1,0 +1,30 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-size: 36px;
+	font-family: "Montserrat", sans-serif;
+	background-color: #333;
+}
+
+.square {
+	display: inline-block;
+	width: 300px;
+	height: 300px;
+	padding: 20px;
+	border: 10px solid black;
+	margin: 30px;
+}
+
+.content {
+	background-color: royalblue;
+}
+
+.border {
+	background-color: lime;
+}
+
+/* MARGINESY GÓRA-DÓŁ SIĘ NIE SUMUJĄ!!!! */

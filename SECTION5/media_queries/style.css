@@ -1,0 +1,32 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-size: 48px;
+	height: 100vh;
+	font-family: "Montserrat", sans-serif;
+	background-color: #333;
+	color: #fff;
+}
+
+.square {
+	width: 50%;
+	height: 50%;
+	margin: 300px auto;
+	background-color: royalblue;
+	border: 2px solid black;
+	border-radius: 25px;
+}
+
+@media (min-width: 500px) and (max-width: 600px) {
+	.square {
+		background-color: gold;
+	}
+}
+
+/* orientation: landscape; jak telefon obrócimy to zmienia style */
+
+/* orientation: portrait; jak telefon jest normalnie ułożony*/

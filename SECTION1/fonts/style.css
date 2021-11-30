@@ -1,0 +1,22 @@
+p {
+	font-family: "Arial", "Helvetica", sans-serif;
+}
+/* sans-serif powinno być zabezpieczenie żeby czcionki szeryfowej nie bylo */
+
+.google-f {
+	font-family: "Roboto", sans-serif;
+}
+
+/* text-align: justify; - robi tak że tekst jest ładnie wyrównany jak mamy sporo tekstu od lewej do prawej, tworzy jakies duze spacje zeby wyrownac */
+
+div {
+	margin-right: 30px;
+	background-color: royalblue;
+	height: 300px;
+}
+
+div p {
+	text-align: center;
+	line-height: 300px;
+	text-shadow: 5px 5px 5px #000;
+}

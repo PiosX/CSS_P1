@@ -1,0 +1,46 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-size: 36px;
+	font-family: "Montserrat", sans-serif;
+	color: #fff;
+	background-color: #333;
+}
+
+div {
+	display: block; /* wartość domyślna */
+
+	background-color: lime;
+	color: #000;
+}
+
+p {
+	display: block; /* wartość domyślna */
+
+	display: inline-block;
+	width: 300px;
+	height: 100px;
+
+	margin: 30px 0;
+	background-color: gold;
+	color: #000;
+}
+
+span {
+	display: inline; /* wartość domyślna */
+
+	width: 1000px;
+	height: 1000px;
+	/* nie ma możliwości zmiany jego szerokosci i wysokosci */
+
+	background-color: royalblue;
+}
+
+img {
+	/* wyjatkowy bo mozemy zmieniac mu wysokosc szerokosc */
+	width: 500px;
+}

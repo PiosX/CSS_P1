@@ -1,0 +1,23 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+html {
+	font-size: 10px;
+}
+
+body {
+	font-family: "Montserrat", sans-serif;
+	color: #fff;
+	background-color: #333;
+}
+
+/* p {
+	font-size: 2.4rem;
+} */
+
+/* jak sie z remami pracuje lepiej ustawic font-size na 10px bo latwiej to obliczac */
+
+/* em odnosi sie do rodzica, lepiej go nie uzywac bo moze namieszac */

@@ -1,0 +1,18 @@
+position
+top / left / bottom / right
+display
+
+margin
+padding
+width
+height
+
+font-size
+line-height
+
+color
+bgc
+border
+
+transition
+cursor

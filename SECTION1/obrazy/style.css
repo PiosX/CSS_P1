@@ -1,0 +1,4 @@
+img {
+	filter: blur(60%);
+	filter: invert(100%);
+}
